@@ -1,7 +1,5 @@
 # Data Mining Project
 
-![Data Mining Banner](assets/banner.png)
-
 ## 📖 Deskripsi Proyek
 
 Proyek ini berisi latihan dan praktikum yang saya lakukan pada mata kuliah Data Mining. Fokus utama dari proyek ini adalah memahami konsep dan penerapan teknik-teknik data mining, termasuk preprocessing data, clustering, klasifikasi, dan analisis data log.
